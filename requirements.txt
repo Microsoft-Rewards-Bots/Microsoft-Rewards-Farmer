@@ -3,3 +3,4 @@ selenium
 ipapi
 undetected-chromedriver
 selenium-wire
+h2>=4.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
